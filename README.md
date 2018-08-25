@@ -20,11 +20,24 @@ Your devices specifications can be different than mine, please proceed with caut
 ## Features Not Working:
 * Unknown
 
-## Pre-Installation Guide:
-1. To Be Added
+## Pre-Installation Guide::
+1. Replace Wi-FI Card with DW1560 (Recommended) or use a USB Wi-Fi Adapter (Not Recommended)
+2. **WARNING: The entire disk will be deleted! Please backup data from previous OS!**
+3. Change the following BIOS Options:
+..* **DISABLE** VT-d
+..* **ENABLE** Legacy USB Support
+..* **DISABLE** Secure Boot
+..* **ENABLE** Launch CSM
+..* Set DVMT to **64M**
+..* Change boot priority to **USB**
 
 ## Installation Guide:
-1. To Be Added
+1. Create a macOS Installation USB **(at least 16GB)**
+2. Install Clover to USB (Change Install Location) then Select Customize
+3. Select "Clover for UEFI booting only" and then under "UEFI Drivers" select "OsxAptioFix3Drv-64"
+4. Select Install, afterwards in EFI mount replace original config.plist with provided one
+5. Place provided kexts in CLOVER/kexts/other and the HFSPlus.efi in CLOVER/drivers64UEFI
+6. Boot into USB on UX330UAR and Partition/Install macOS
 
 ## Post-Installation Guide:
 1. To Be Added
