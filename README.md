@@ -24,12 +24,12 @@ Your devices specifications can be different than mine, please proceed with caut
 1. Replace Wi-FI Card with DW1560 (Recommended) or use a USB Wi-Fi Adapter (Not Recommended)
 2. **WARNING: The entire disk will be deleted! Please backup data from previous OS!**
 3. Change the following BIOS Options:
-..* **DISABLE** VT-d
-..* **ENABLE** Legacy USB Support
-..* **DISABLE** Secure Boot
-..* **ENABLE** Launch CSM
-..* Set DVMT to **64M**
-..* Change boot priority to **USB**
+* **DISABLE** VT-d
+* **ENABLE** Legacy USB Support
+* **DISABLE** Secure Boot
+* **ENABLE** Launch CSM
+* Set DVMT to **64M**
+* Change boot priority to **USB**
 
 ## Installation Guide:
 1. Create a macOS Installation USB **(at least 16GB)**
