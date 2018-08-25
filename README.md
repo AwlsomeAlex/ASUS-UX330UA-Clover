@@ -1,4 +1,5 @@
 # macOS High Sierra + Clover Bootloader for Asus ZenBook UX330UAR
+## WARNING: Unfinished and Untested
 ###### Last updated: 8/25/18
 
 ## Specifications:
