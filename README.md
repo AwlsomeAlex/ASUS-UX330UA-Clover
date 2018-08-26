@@ -38,7 +38,7 @@ Your devices specifications can be different than mine, please proceed with caut
 3. Select "Clover for UEFI booting only" and then under "UEFI Drivers" select "OsxAptioFix3Drv-64"
 4. Select Install, afterwards in EFI mount replace original config.plist with provided one
 5. Place provided kexts in CLOVER/kexts/other and the HFSPlus.efi in CLOVER/drivers64UEFI
-6. Boot into USB on UX330UAR and Partition/Install macOS
+6. Boot into USB on UX330UAR and Partition/Install macOS **(MAKE SURE NOTHING IS PLUGGED IN!)**
 
 ## Post-Installation Guide:
 1. To Be Added
