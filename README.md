@@ -41,7 +41,8 @@ Your devices specifications can be different than mine, please proceed with caut
 6. Boot into USB on UX330UAR and Partition/Install macOS **(MAKE SURE NOTHING IS PLUGGED IN!)**
 
 ## Post-Installation Guide:
-1. To Be Added
+1. Partition 2GB to Hard Drive which macOS is installed 
+2. Install Clover with following options:
 
 ## FAQs:
 * None
