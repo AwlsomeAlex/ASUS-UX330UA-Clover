@@ -14,3 +14,10 @@
 * USBInjectAll (RehabMan): 2018-0822
 * VoodooI2C (alexandred): v1.0.4 **[OLD]**
 * VoodooPS2Controller (RehabMan): 1.8.29 **[OLD]**
+
+## /system/library/extension Kext Versions:
+* ACPIBatteryManager (RehabMan): 2017-1001
+* AppleALC (acidanthera): 1.3.1
+* AppleHDADisabler (Kabyl): 1.0.1 **[OLD]**
+* AsusNBFnKeys (EMItDinEsH): 2.6
+* VoodooHDA (chris1111): 1.8.8 **[OLD]**
