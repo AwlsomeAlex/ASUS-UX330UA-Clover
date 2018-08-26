@@ -12,5 +12,5 @@
 * NullCPUPowerManagement (tonymacx86): v1.0.0d2
 * SATA-100-series-unsupported (Unknown): Unknown
 * USBInjectAll (RehabMan): 2018-0822
-* VoodooI2C (alexandred): v1.0.4
-* VoodooPS2Controller (RehabMan): 1.8.29
+* VoodooI2C (alexandred): v1.0.4 **[OLD]**
+* VoodooPS2Controller (RehabMan): 1.8.29 **[OLD]**
