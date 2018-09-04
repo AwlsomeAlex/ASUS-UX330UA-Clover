@@ -1,0 +1,27 @@
+########################
+#----------------------#
+# Kext/Clover Versions #
+#----------------------#
+########################
+
+Clover v2 Release 4658
+
+#########
+# Kexts #
+#########
+
+----- USB & System -----
+FakePCIID_Intel_HD_Graphics.kext (2018-0421) RehabMan
+FakePCIID.kext (2018-0421) RehabMan
+FakeSMC.kext (2018-0403) RehabMan
+IntelMausiEthernet.kext (2018-0424) RehabMan
+NullCPUPowerManagement.kext (1.0.0d2) Tgwbd
+SATA-100-series-unsupported.kext (0.5.1) RehabMan
+USBInjectAll.kext (2018-0822) RehabMan
+VoodooI2C.kext (2.0.3) Alexandred
+VoodooI2CHID.kext (2.0.3) Alexandred
+VoodooPS2.kext (2018-0506) RehabMan
+Lilu.kext (1.2.6) Acidanthera
+WhateverGreen.kext (1.2.1) Acidanthera
+
+----- System -----
