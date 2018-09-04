@@ -25,3 +25,8 @@ Lilu.kext (1.2.6) Acidanthera
 WhateverGreen.kext (1.2.1) Acidanthera
 
 ----- System -----
+ACPIBatteryManager (2017-1001) RehabMan
+AppleALC (1.3.1) Acidanthera
+AsusNBFnKeys (2.6) Emlydinesh
+AppleHDADisabler (1.0.1) Kabyl
+VoodooHDA (2.9.1) Voodoo
